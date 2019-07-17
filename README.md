@@ -28,12 +28,12 @@ Integrante de un equipo encargado de migrar e implementar nuevas funcionalidades
 
 ### Universidad de La Habana - Licenciatura, Ciencia de la Computación
 
-> Septiembre de 2016 - Actualidad
+> septiembre de 2016 - Actualidad
 
 Estudiante de Ciencia de la Computación de la Facultad de Matemática y Computación de la Universidad de La Habana. He representado a la facultad y a la universidad en muchos eventos como el Día Internacional de las Niñas en las TICs desarrollado en el Centro de Segurmática de Cuba, el Bulevar de las TICs desarrollado en el Palacio Central de Computación y Electrónica de Cuba, etc.
 
 ### IPVCE Vladimir Ilich Lenin - Bachiller, Pre Universitario
 
-> Septiembre de 2012 - Julio de 2015
+> septiembre de 2012 - julio de 2015
 
 Formé parte del grupo de alto rendimiento, específicamente en la asignatura de Informática. Entre los premios se pueden destacar el Oro a nivel provincial y el Bronce a nivel nacional en los Concursos de Programación Competitiva. Orgullosamente integrante de la Graduación 41.
