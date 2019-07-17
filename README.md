@@ -14,9 +14,15 @@ En mis tiempos libres siempre estoy investigando y aprendiendo sobre nuevas tecn
 
 ### Desarrollador Unity Junior - Viera Academy
 
-> Septiembre de 2018 - Actualidad
+> septiembre de 2018 - Actualidad
 
 Integrante del equipo de desarrollo de la aplicación PrepLife. Encargado principalmente de las funcionalidades en las que intervengan servicios de terceros como son Unity IAP, Google Firebase, etc.
+
+### Adiestrado - Centro de Neurociencias de Cuba (CNEURO)
+
+> 1 de julio de 2019 - 18 de julio de 2019
+
+Integrante de un equipo encargado de migrar e implementar nuevas funcionalidades de una aplicación realizada en Matlab sobre el análisis de la marcha la cual a partir de sensores que miden la aceleración, la dirección, etc; calcula diferentes parámetros como la cantidad de pasos, la longitud del paso, la velocidad del paso, etc. La nueva aplicación se implementó en el lenguaje de programación Python.
 
 ## Educación
 
