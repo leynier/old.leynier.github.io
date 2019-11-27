@@ -1,6 +1,6 @@
 # Leynier Gutiérrez González
 
-> La Habana · Cuba · leynier41@gmail.com
+> Havana · Cuba · leynier41@gmail.com
 
 ## Sobre Mí
 
