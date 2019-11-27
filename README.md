@@ -1,39 +1,90 @@
 # Leynier Gutiérrez González
 
-> La Habana · Cuba · leynier41@gmail.com
+> Havana · Cuba · leynier41@gmail.com
 
-## Sobre Mí
+## About me
 
-Soy estudiante de Ciencia de la Computación. Cuento con el conocimiento de varios lenguajes de programación como son C, C++, C#, Java, Python y Javascript; además de otros lenguajes de marcado o de estilo como HTML, CSS y JSON. Me gusta mucho tanto el desarrollo de aplicaciones móviles como el desarrollo de aplicaciones web, utilizando los frameworks, softwares, tecnologías, etc; como Android Studio, Unity, Flask, Vue.js y Bootstrap.
+I am a student of Computer Science. I know several programming languages such as C, C ++, C #, Java, Python and Javascript; in addition to other markup or style languages such as HTML, CSS and JSON. I really like both mobile application development and web application development, using frameworks, software, technologies, etc like Android Studio, Unity, Flask, Vue.js and Bootstrap.
 
-En mis tiempos libres siempre estoy investigando y aprendiendo sobre nuevas tecnologías, frameworks, etc. Me desenvuelvo muy bien trabajando tanto individualmente como en equipo, domino las metodologías de desarrollo de softwares ágiles y herramientas como Git.
+In my free time I am always researching and learning about new technologies, frameworks, etc. I am good working both individually and as a team, I know the development methodologies of agile software and tools like Git.
 
 **Redes Sociales:** [LinkedIn](https://www.linkedin.com/in/leynier), [GitHub](https://github.com/leynier), [Twitter](https://twitter.com/leynier41), [Facebook](https://www.facebook.com/leynier41) y [Telegram](https://t.me/leynier)
 
-## Experiencia
+## Experience
 
-### Desarrollador Unity Junior - Viera Academy
+### Unity Junior Developer - Viera Academy
 
-> septiembre de 2018 - Actualidad
+> September 2018 - Present
 
-Integrante del equipo de desarrollo de la aplicación PrepLife. Encargado principalmente de las funcionalidades en las que intervengan servicios de terceros como son Unity IAP, Google Firebase, etc.
+Member of the [PrepCoders](https://viera.academy/prepcoders), [PrepLife](https://viera.academy) and [Vilin](https://viera.academy/vilin) applications development team. In charge mainly of the functionalities related to third party services such as Unity IAP, Google Firebase, etc.
 
-### Adiestrado - Centro de Neurociencias de Cuba (CNEURO)
+### Trained Teacher - University of Havana
 
-> 1 de julio de 2019 - 18 de julio de 2019
+> September 2019 - Present
 
-Integrante de un equipo encargado de migrar e implementar nuevas funcionalidades de una aplicación realizada en Matlab sobre el análisis de la marcha la cual a partir de sensores que miden la aceleración, la dirección, etc; calcula diferentes parámetros como la cantidad de pasos, la longitud del paso, la velocidad del paso, etc. La nueva aplicación se implementó en el lenguaje de programación Python.
+Trained Professor of Computing and Programming at the [Faculty of Biology](https://www.fbio.uh.cu) of the University of Havana.
 
-## Educación
+### Trained - Center of Neurosciences of Cuba (CNEURO)
 
-### Universidad de La Habana - Licenciatura, Ciencia de la Computación
+> July 1, 2019 - July 18, 2019
 
-> septiembre de 2016 - Actualidad
+Member of a team responsible for migrating and implementing new functionalities of an application made in Matlab on the analysis of the gait which from sensors that measure acceleration, direction, etc; calculates different parameters such as the number of steps, the step length, the step speed, etc. The new application was implemented in the Python programming language.
 
-Estudiante de Ciencia de la Computación de la Facultad de Matemática y Computación de la Universidad de La Habana. He representado a la facultad y a la universidad en muchos eventos como el Día Internacional de las Niñas en las TICs desarrollado en el Centro de Segurmática de Cuba, el Bulevar de las TICs desarrollado en el Palacio Central de Computación y Electrónica de Cuba, etc.
+## Education
 
-### IPVCE Vladimir Ilich Lenin - Bachiller, Pre Universitario
+### University of Havana - Bachelor's Degree, Computer Science
 
-> septiembre de 2012 - julio de 2015
+> September 2016 - Present
 
-Formé parte del grupo de alto rendimiento, específicamente en la asignatura de Informática. Entre los premios se pueden destacar el Oro a nivel provincial y el Bronce a nivel nacional en los Concursos de Programación Competitiva. Orgullosamente integrante de la Graduación 41.
+Student of Computer Science of the Faculty of Mathematics and Computation of the University of Havana. I have represented the faculty and the university in many events such as the International Girls' Day on ICTs developed at the Cuba Security Center, the ICT Boulevard developed at the Central Palace of Computing and Electronics of Cuba, etc.
+
+### IPVCE Vladimir Ilich Lenin - High School, Pre University
+
+> September 2012 - July 2015
+
+I was part of the high performance group, specifically in the Computer Science course. Among the awards can be highlighted the Gold at the provincial level and the Bronze at the national level in the Competitive Programming Contests. Proudly a member of Graduation 41.
+
+## Skills
+
+### Knowledges
+
+* Software Development
+* Software Design
+* Software Engineering
+* Web Development
+
+### Programming Languages
+
+* C
+* C++
+* C#
+* Python
+* Java
+* Assembly Language
+* JavaScript
+* SQL
+* Ruby
+
+### Markup and Style Languages
+
+* HTML5
+* CSS
+* JSON
+
+### Frameworks and Technologies
+
+* Flask
+* Android
+* Unity3D
+* Bootstrap
+* Vue.js
+* AngularJS
+* SQLAlchemy
+* Windows Forms
+* Windows Presentation Fundation
+
+### Tools
+
+* Google Firebase
+* pipenv
+* Git
