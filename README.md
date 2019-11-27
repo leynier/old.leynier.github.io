@@ -43,3 +43,48 @@ Student of Computer Science of the Faculty of Mathematics and Computation of the
 > September 2012 - July 2015
 
 I was part of the high performance group, specifically in the Computer Science course. Among the awards can be highlighted the Gold at the provincial level and the Bronze at the national level in the Competitive Programming Contests. Proudly a member of Graduation 41.
+
+## Skills
+
+### Knowledges
+
+* Software Development
+* Software Design
+* Software Engineering
+* Web Development
+
+### Programming Languages
+
+* C
+* C++
+* C#
+* Python
+* Java
+* Assembly Language
+* JavaScript
+* SQL
+* Ruby
+
+### Markup and Style Languages
+
+* HTML5
+* CSS
+* JSON
+
+### Frameworks and Technologies
+
+* Flask
+* Android
+* Unity3D
+* Bootstrap
+* Vue.js
+* AngularJS
+* SQLAlchemy
+* Windows Forms
+* Windows Presentation Fundation
+
+### Tools
+
+* Google Firebase
+* pipenv
+* Git
