@@ -24,16 +24,22 @@ Member of the [PrepCoders](https://viera.academy/prepcoders), [PrepLife](https:/
 
 Trained Professor of Computing and Programming at the [Faculty of Biology](https://www.fbio.uh.cu) of the University of Havana.
 
-## Educación
+### Trained - Center of Neurosciences of Cuba (CNEURO)
 
-### Universidad de La Habana - Licenciatura, Ciencia de la Computación
+> July 1, 2019 - July 18, 2019
 
-> septiembre de 2016 - Actualidad
+Member of a team responsible for migrating and implementing new functionalities of an application made in Matlab on the analysis of the gait which from sensors that measure acceleration, direction, etc; calculates different parameters such as the number of steps, the step length, the step speed, etc. The new application was implemented in the Python programming language.
 
-Estudiante de Ciencia de la Computación de la Facultad de Matemática y Computación de la Universidad de La Habana. He representado a la facultad y a la universidad en muchos eventos como el Día Internacional de las Niñas en las TICs desarrollado en el Centro de Segurmática de Cuba, el Bulevar de las TICs desarrollado en el Palacio Central de Computación y Electrónica de Cuba, etc.
+## Education
 
-### IPVCE Vladimir Ilich Lenin - Bachiller, Pre Universitario
+### University of Havana - Bachelor's Degree, Computer Science
 
-> septiembre de 2012 - julio de 2015
+> September 2016 - Present
 
-Formé parte del grupo de alto rendimiento, específicamente en la asignatura de Informática. Entre los premios se pueden destacar el Oro a nivel provincial y el Bronce a nivel nacional en los Concursos de Programación Competitiva. Orgullosamente integrante de la Graduación 41.
+Student of Computer Science of the Faculty of Mathematics and Computation of the University of Havana. I have represented the faculty and the university in many events such as the International Girls' Day on ICTs developed at the Cuba Security Center, the ICT Boulevard developed at the Central Palace of Computing and Electronics of Cuba, etc.
+
+### IPVCE Vladimir Ilich Lenin - High School, Pre University
+
+> September 2012 - July 2015
+
+I was part of the high performance group, specifically in the Computer Science course. Among the awards can be highlighted the Gold at the provincial level and the Bronze at the national level in the Competitive Programming Contests. Proudly a member of Graduation 41.
