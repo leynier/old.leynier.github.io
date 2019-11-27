@@ -2,11 +2,11 @@
 
 > Havana · Cuba · leynier41@gmail.com
 
-## Sobre Mí
+## About me
 
-Soy estudiante de Ciencia de la Computación. Cuento con el conocimiento de varios lenguajes de programación como son C, C++, C#, Java, Python y Javascript; además de otros lenguajes de marcado o de estilo como HTML, CSS y JSON. Me gusta mucho tanto el desarrollo de aplicaciones móviles como el desarrollo de aplicaciones web, utilizando los frameworks, softwares, tecnologías, etc; como Android Studio, Unity, Flask, Vue.js y Bootstrap.
+I am a student of Computer Science. I know several programming languages such as C, C ++, C #, Java, Python and Javascript; in addition to other markup or style languages such as HTML, CSS and JSON. I really like both mobile application development and web application development, using frameworks, software, technologies, etc like Android Studio, Unity, Flask, Vue.js and Bootstrap.
 
-En mis tiempos libres siempre estoy investigando y aprendiendo sobre nuevas tecnologías, frameworks, etc. Me desenvuelvo muy bien trabajando tanto individualmente como en equipo, domino las metodologías de desarrollo de softwares ágiles y herramientas como Git.
+In my free time I am always researching and learning about new technologies, frameworks, etc. I am good working both individually and as a team, I know the development methodologies of agile software and tools like Git.
 
 **Redes Sociales:** [LinkedIn](https://www.linkedin.com/in/leynier), [GitHub](https://github.com/leynier), [Twitter](https://twitter.com/leynier41), [Facebook](https://www.facebook.com/leynier41) y [Telegram](https://t.me/leynier)
 
