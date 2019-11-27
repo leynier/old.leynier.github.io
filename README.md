@@ -18,11 +18,11 @@ In my free time I am always researching and learning about new technologies, fra
 
 Member of the [PrepCoders](https://viera.academy/prepcoders), [PrepLife](https://viera.academy) and [Vilin](https://viera.academy/vilin) applications development team. In charge mainly of the functionalities related to third party services such as Unity IAP, Google Firebase, etc.
 
-### Adiestrado - Centro de Neurociencias de Cuba (CNEURO)
+### Trained Teacher - University of Havana
 
-> 1 de julio de 2019 - 18 de julio de 2019
+> September 2019 - Present
 
-Integrante de un equipo encargado de migrar e implementar nuevas funcionalidades de una aplicación realizada en Matlab sobre el análisis de la marcha la cual a partir de sensores que miden la aceleración, la dirección, etc; calcula diferentes parámetros como la cantidad de pasos, la longitud del paso, la velocidad del paso, etc. La nueva aplicación se implementó en el lenguaje de programación Python.
+Trained Professor of Computing and Programming at the [Faculty of Biology](https://www.fbio.uh.cu) of the University of Havana.
 
 ## Educación
 
