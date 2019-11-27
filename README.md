@@ -10,13 +10,13 @@ In my free time I am always researching and learning about new technologies, fra
 
 **Redes Sociales:** [LinkedIn](https://www.linkedin.com/in/leynier), [GitHub](https://github.com/leynier), [Twitter](https://twitter.com/leynier41), [Facebook](https://www.facebook.com/leynier41) y [Telegram](https://t.me/leynier)
 
-## Experiencia
+## Experience
 
-### Desarrollador Unity Junior - Viera Academy
+### Unity Junior Developer - Viera Academy
 
-> septiembre de 2018 - Actualidad
+> September 2018 - Present
 
-Integrante del equipo de desarrollo de la aplicación PrepLife. Encargado principalmente de las funcionalidades en las que intervengan servicios de terceros como son Unity IAP, Google Firebase, etc.
+Member of the [PrepCoders](https://viera.academy/prepcoders), [PrepLife](https://viera.academy) and [Vilin](https://viera.academy/vilin) applications development team. In charge mainly of the functionalities related to third party services such as Unity IAP, Google Firebase, etc.
 
 ### Adiestrado - Centro de Neurociencias de Cuba (CNEURO)
 
