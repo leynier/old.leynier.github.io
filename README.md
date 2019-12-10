@@ -52,6 +52,7 @@ I was part of the high performance group, specifically in the Computer Science c
 * Software Design
 * Software Engineering
 * Web Development
+* Mobile Development
 
 ### Programming Languages
 
