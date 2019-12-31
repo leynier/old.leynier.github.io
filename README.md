@@ -12,17 +12,17 @@ In my free time I am always researching and learning about new technologies, fra
 
 ## Experience
 
-### Unity Junior Developer - Viera Academy
+### Unity Developer - Viera Academy
 
 > September 2018 - Present
 
 Member of the [PrepCoders](https://viera.academy/prepcoders), [PrepLife](https://viera.academy) and [Vilin](https://viera.academy/vilin) applications development team. In charge mainly of the functionalities related to third party services such as Unity IAP, Google Firebase, etc.
 
-### Trained Teacher - University of Havana
+### Assistant Professor - University of Havana
 
 > September 2019 - Present
 
-Trained Professor of Computing and Programming at the [Faculty of Biology](https://www.fbio.uh.cu) of the University of Havana.
+Assistant Professor of Computing and Programming at the [Faculty of Biology](https://www.fbio.uh.cu) of the University of Havana.
 
 ### Trained - Center of Neurosciences of Cuba (CNEURO)
 
