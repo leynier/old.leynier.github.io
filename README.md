@@ -4,7 +4,7 @@
 
 ## About me
 
-I am a student of Computer Science. I know several programming languages such as C, C ++, C #, Java, Python and Javascript; in addition to other markup or style languages such as HTML, CSS and JSON. I really like both mobile application development and web application development, using frameworks, software, technologies, etc like Android Studio, Unity, Flask, Vue.js and Bootstrap.
+I am a student of Computer Science. I know several programming languages such as `C`, `C++`, `C#`, `Dart`, `Java`, `Python` and `Javascript`; in addition to other markup or style languages such as `HTML`, `CSS` and `JSON`. I really like both mobile application development and web application development, using frameworks, software, technologies, etc like `Android Studio`, `Flutter`, `Unity`, `Flask`, `Vue.js` and `Bootstrap`.
 
 In my free time I am always researching and learning about new technologies, frameworks, etc. I am good working both individually and as a team, I know the development methodologies of agile software and tools like Git.
 
@@ -48,44 +48,45 @@ I was part of the high performance group, specifically in the Computer Science c
 
 ### Knowledges
 
-* Software Development
-* Software Design
-* Software Engineering
-* Web Development
-* Mobile Development
+- Software Development
+- Software Design
+- Software Engineering
+- Web Development
+- Mobile Development
 
 ### Programming Languages
 
-* C
-* C++
-* C#
-* Python
-* Java
-* Assembly Language
-* JavaScript
-* SQL
-* Ruby
+- C
+- C++
+- C#
+- Dart
+- Python
+- Java
+- Assembly Language
+- JavaScript
+- SQL
+- Ruby
 
 ### Markup and Style Languages
 
-* HTML5
-* CSS
-* JSON
+- HTML5
+- CSS
+- JSON
 
 ### Frameworks and Technologies
 
-* Flask
-* Android
-* Unity3D
-* Bootstrap
-* Vue.js
-* AngularJS
-* SQLAlchemy
-* Windows Forms
-* Windows Presentation Fundation
+- Flask
+- Android
+- Unity3D
+- Bootstrap
+- Vue.js
+- AngularJS
+- SQLAlchemy
+- Windows Forms
+- Windows Presentation Fundation
 
 ### Tools
 
-* Google Firebase
-* pipenv
-* Git
+- Google Firebase
+- pipenv
+- Git
