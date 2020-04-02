@@ -76,6 +76,7 @@ I was part of the high performance group, specifically in the Computer Science c
 ### Frameworks and Technologies
 
 - Flask
+- Flutter
 - Android
 - Unity3D
 - Bootstrap
